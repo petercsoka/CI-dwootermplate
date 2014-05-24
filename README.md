@@ -10,5 +10,7 @@ Usage:
 Extra function:
 
 Now you can set the template folder.
+
 	$this->dwootemplate->set_view_folder('to/my/views');
+	
 The path is relative to APPATH
